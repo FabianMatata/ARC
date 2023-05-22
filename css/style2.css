@@ -1,0 +1,45 @@
+.nav-item:hover {
+    background-color: #fea116;
+}
+
+#btn-back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+    }
+
+/* .form-outline .form-control{
+    min-width: 200px;
+    margin: 10px 10px auto;
+} */
+
+/* media queries */
+@media (max-width:1199px)
+{
+    
+  
+}
+@media (max-width:991px)
+{
+    /* .top {
+        grid-column: auto;
+    } */
+}
+
+
+
+
+@media (max-width:767px)
+{
+    .header-b{
+        font-size: small;
+        /* flex-direction: column; */
+        display: flex;
+        flex-wrap: wrap;
+    }
+    /* .top {
+        grid-column: auto;
+    } */
+  
+}
